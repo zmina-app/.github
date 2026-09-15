@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/zmina-app/.github/main/profile/zmina-icon.png" width="64" align="center" alt=""> Zmina
+# <img src="https://raw.githubusercontent.com/zmina-app/.github/main/profile/zmina-icon.png" width="64" align="absmiddle" alt=""> Zmina
 
 Zmina sits between copy and paste. It reads what's in the clipboard and where you paste, and offers a short list of actions you can apply. Without switching apps.
 
