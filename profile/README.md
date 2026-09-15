@@ -10,6 +10,4 @@ No accounts, no telemetry, no crash reports, nothing you copy leaves your Mac.
 
 [zmina.app](https://zmina.app) · [Actions](https://zmina.app/actions) · [Changelog](https://zmina.app/changelog) · [Bluesky](https://bsky.app/profile/zmina.app)
 
-Zmina is closed source, so the repositories here are private.
-
-Made by Mykhailo Onikiienko ([@onikienko](https://github.com/onikienko)) · support@zmina.app · security@zmina.app
+By Mykhailo Onikiienko ([@onikienko](https://github.com/onikienko)) · support@zmina.app · security@zmina.app
